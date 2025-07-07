@@ -1,3 +1,4 @@
+moviepy
 streamlit
 openai
 moviepy
