@@ -1,7 +1,6 @@
 moviepy
 streamlit
 openai
-moviepy
 requests
 elevenlabs
 Pillow
