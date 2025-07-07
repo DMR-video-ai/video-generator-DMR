@@ -4,3 +4,5 @@ moviepy
 requests
 elevenlabs
 Pillow
+imageio
+imageio-ffmpeg
